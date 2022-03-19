@@ -2,4 +2,6 @@
 
 # GET
 
-`go get github.com/g0rbe/go-utils`
+```bash
+go get github.com/g0rbe/go-utils
+```
